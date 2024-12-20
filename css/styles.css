@@ -1,3 +1,58 @@
 body {
- background-color: bisque;
+ font-family: 'Roboto', sans-serif;
+ background-color: #FFFFFF;
+ color: #2E2F42;
+}
+
+.nav {
+
+}
+
+.nav a {
+font-family: 'Raleway', sans-serif;
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 3%;
+color: #2E2F42;
+text-decoration: none;
+text-transform: uppercase;
+width: 71px;
+height: 21px;
+}
+
+.nav-logo .nav-web {
+font-family: 'Raleway', sans-serif;
+color: #4D5AE5;
+}
+
+.nav-menu .link {
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 2%;
+ color: #2E2F42;
+ text-decoration: none;
+ font-weight: 500;
+}
+
+.nav-menu li {
+ list-style-type: none;
+}
+/* ul.nav-menu li a {
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 2%;
+ color: #2E2F42;
+} */
+
+.address .address-link {
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 2%;
+ color: #434455;
+ text-decoration: none;
+ font-weight: 400;
+}
+
+.address li {
+ list-style-type: none;
 }
